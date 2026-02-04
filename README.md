@@ -1,2 +1,234 @@
 # Momus
 “μ–Momus: A meta-calculus for safely exploring, stabilizing, and reflecting on recursive human, character, and narrative interactions.”
+# **μ–Momus Compact Infographic**
+
+```
+                     ┌───────────────┐
+                     │   INPUT       │
+                     │ Scene / Reader│
+                     │ Character     │
+                     └───────┬───────┘
+                             │
+                             ▼
+┌─────────────────────────────────────────────┐
+│         TIERED TRIGGER STACK               │
+│ ┌──────────┐ ┌────────────┐ ┌───────────┐ │
+│ │Tier0 🫀   │ │Tier1 ❤️‍🔥 │ │Tier2 2x    │ │
+│ │Survival  │ │Drive / Loop│ │Attraction  │ │
+│ │& Boundary│ │Risk        │ │& Meaning  │ │
+│ └──────────┘ └────────────┘ └───────────┘ │
+└─────────────┬─────────────────────────────┘
+              │
+              ▼
+┌─────────────────────────────────────────────┐
+│        TIER3 μ-GATE (⏸️⏳🤔🙃)              │
+│ Mandatory Reflection + Hesitation + Irony  │
+│ + Ethical / Self-Awareness & Containment   │
+└─────────────┬─────────────────────────────┘
+              │
+              ▼
+┌─────────────────────────────────────────────┐
+│ EMOTIONS TAGGED (😨 😡 😬 🥵 etc.)          │
+│ Combine with Tiered Triggers to compute     │
+│ Parasocial & Ethical Risk                   │
+└─────────────┬─────────────────────────────┘
+              │
+              ▼
+┌─────────────────────────────────────────────┐
+│  COMPUTE PARASOCIAL & AGENCY FLUCTUATION  │
+│ V_s = (T_inv / T_norm) * (1-A)             │
+│ F_ex = (M_c / (1 + E_eth)) * e^(β*(1-A))*V_s│
+└─────────────┬─────────────────────────────┘
+              │
+              ▼
+┌─────────────────────────────────────────────┐
+│ APPLY μ–MOMUS STABILIZATION                 │
+│ μ_M = 1 - γ * H_i * B_f                     │
+│ Humor + Boundary containment modulate loops │
+└─────────────┬─────────────────────────────┘
+              │
+              ▼
+┌─────────────────────────────────────────────┐
+│ ENGAGEMENT & RECURSION OUTPUTS             │
+│ R_e^Momus = R_e * (1 + α * F_ex * μ_M)     │
+│ ΔR_e = R_e^Momus - (R_prev * K_r)          │
+└─────────────┬─────────────────────────────┘
+              │
+              ▼
+┌─────────────────────────────────────────────┐
+│ PLURAL INTERPRETATIONS (J × P)             │
+│ Multiple non-prescriptive outputs          │
+│ Reflective, ethical, contained             │
+└─────────────┬─────────────────────────────┘
+              │
+              ▼
+┌─────────────────────────────────────────────┐
+│ LOG RESIDUAL RISK & ITERATE                 │
+│ Obsession 🔁🧲, Compulsion 🔁, Violation V_s│
+│ Multi-character or multi-scene loops       │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+### **Legend / Quick Reference**
+
+| Symbol                     | Meaning                                            |
+| -------------------------- | -------------------------------------------------- |
+| 🫀 Tier0                   | Survival / Boundary (priority ×4)                  |
+| ❤️‍🔥 Tier1                | Drive & Loop Risk (priority ×3)                    |
+| 2x Tier2                   | Attraction / Meaning Pull (priority ×2)            |
+| ⏸️⏳🤔🙃 Tier3              | μ–Gate: reflection, hesitation, irony, containment |
+| 1x Tier4                   | Recovery & Integration: trust, calm, hope          |
+| 🔁 ⚡ 🧲 👥 🧩 💘 🎁 🎨 🛋️ | Triggers / pathways                                |
+| J×P                        | Plural, provisional interpretations                |
+
+---
+
+✅ **Effect at a glance**
+
+* Arguments / narrative elements **fully express** → modulated by μ–Momus
+* Recursive engagement **measured, bounded, and non-catastrophic**
+* Multi-character or parasocial simulations **contain ethical tension, obsession, and compulsion**
+* **Human oversight is built in** through μ-gate and logging
+
+---
+
+# **μ–Momus: Parasocial & Interpretive Meta-Calculus (Public Domain)**
+
+**Version:** 1.0
+**Author:** Michaela Kimker
+**License:** Public Domain / CC0
+
+---
+
+## **1. Overview**
+
+**μ–Momus** is a conceptual framework and AI-human collaborative system for interpreting, simulating, and reflecting on complex narratives, social dynamics, and emotionally charged material. It emphasizes:
+
+* **Multiplicity of perspectives** — no person is judged; only arguments and dynamics are analyzed.
+* **Reflexivity & ironic stabilization** — uses humor, boundaries, and meta-awareness to contain ethically and emotionally high-risk content.
+* **Parasocial & trigger sensitivity** — models how attachment, compulsion, and desire propagate across observers, characters, or readers.
+* **Provisionality** — outputs are suggestions, interpretations, or engagement metrics, never prescriptive commands.
+
+The framework is **matrixed, recursive, and emoji-tagged** to make it comprehensible and modifiable for writers, educators, AI researchers, and narrative theorists.
+
+---
+
+## **2. Core Principles**
+
+1. **Threshold Rule (μ)** – All interpretation passes through **μ–Momus**, the ironic and communal stabilizer, before engagement or judgment.
+2. **Process Over Object** – Focus on verbs (destabilize, accept, invite) and interactions rather than fixed categories.
+3. **Provisional Outputs** – Every interpretation is context-sensitive, temporary, and open to revision.
+4. **Tiered Trigger Stack** – Survival, drive, attraction, μ-gate, and recovery tiers organize emotional and cognitive input hierarchically.
+5. **Human Oversight** – Interpretation is reflective; human review is required for ethical and contextual assessment.
+
+---
+
+## **3. Trigger Classes (Emoji-Labeled)**
+
+**Attraction / Valuation Pathways**
+
+* 🧩 Cognitive-attraction
+* 💘 Sexual attraction
+* 🎁 Reward pathway
+* 🎨 Aesthetic appraisal
+* 🛋️ Nostalgia / comfort
+
+**Drive & Loop Risks**
+
+* 🔁 Compulsion
+* ⚡ Impulse
+* 🧲 Obsession
+* 👥 Parasocial frame
+
+**Regulation & Recovery**
+
+* ⏸️ Hesitation, ⏳ Delay, 🤔 Reflection, 🙃 Irony, ⚖️ Ethics, 🪞 Self-recognition
+* 🧠🔄 Digesting, 🖤 Brooding, 🫂 Trust, 😌 Calm, 🌱 Hope
+
+**Rule:** Tier 1 variables (Drive & Loops) cannot act without μ-gate consent.
+
+---
+
+## **4. Equation Overview**
+
+### **Core μ–Momus Operator**
+
+```
+μ_M [ ?(D) ∘ accept(S,D) ∘ invite(L,C) ∘ 𝓜_Momus ] ⇒ (S', D', L', J×P)
+```
+
+* D = diagnosis / argument
+* S = self
+* L = language / communication
+* C = cognition-about-cognition
+* 𝓜_Momus = interactive matrix controlling humor, boundaries, and communal framing
+
+### **Parasocial Risk**
+
+```
+V_s = (T_inv / T_norm) * (1 - A)
+F_ex = (M_c / (1 + E_eth)) * e^(β*(1-A)) * V_s
+R_e^Momus = R_e * (1 + α * F_ex * μ_M)
+ΔR_e = R_e^Momus - (R_prev * K_r)
+```
+
+* Measures engagement, destabilization intensity, and ethical tension
+* μ_M = 1 - γ * H_i * B_f (humor + boundary containment)
+
+---
+
+## **5. Usage Workflow**
+
+1. **Assign Inputs**: Characters, readers, or observers; scene parameters; Tier triggers; μ–Momus traits.
+2. **Tag Triggers & Emotions**: Tiered system using emojis.
+3. **Compute Parasocial Risk**: ΔRₑ, Vₛ, Fₑₓ for each participant.
+4. **Apply μ–Momus Gate**: Insert irony, hesitation, and boundaries before conclusions.
+5. **Compute Engagement / Recursion**: Matrixed / quadratic computations reflect complex interactions.
+6. **Generate Plural Outputs**: At least two provisional interpretations (J×P).
+7. **Log Residual Risk**: Obsession, compulsion, or violation signals.
+8. **Iterate**: Multi-character or multi-scene simulations allow recursive reflection.
+
+---
+
+## **6. Possible Applications**
+
+* **Writers & Storytellers**: Explore character dynamics, moral ambiguity, and multi-perspective narrative tension.
+* **Educators & Literary Critics**: Model interpretation of texts, allegories, or philosophical arguments.
+* **AI & Narrative Systems**: Prototype safe multi-agent simulations that account for parasocial engagement, ethical tension, and recursive feedback loops.
+* **Therapeutic / Reflective Use**: Explore thoughts, attachment patterns, and relational projections in a contained, ironic simulation.
+* **Fandom & Cultural Analysis**: Understand why rivalries or parasocial attachments are eroticized or valorized, without moralizing.
+
+---
+
+## **7. Safety & Ethical Notes**
+
+* μ–Momus **prevents runaway loops** and catastrophic recursion.
+* Tiered gates **ensure survival & boundary triggers override all others**.
+* Outputs are **never prescriptive**; human oversight is required.
+* Residual risks should be monitored; ethical reflection is central.
+
+---
+
+## **8. Public Domain Commitment**
+
+All of μ–Momus, including triggers, equations, pseudo-code, and interpretations, is **fully public domain (CC0)**. Anyone may **reuse, adapt, or extend it** without permission.
+
+---
+
+## **9. Quick Start (Copy-Paste)**
+
+```
+1. Tag triggers: 🧩 💘 🎁 🎨 🛋️ ⚡ 🔁 🧲 👥
+2. Tag emotions: 😨 😡 😬 🥵 etc.
+3. Compute V_s, F_ex, R_e^Momus
+4. Apply μ gate: ⏸️ ⏳ 🤔 🙃
+5. Generate plural interpretations (J×P)
+6. Log residual risk
+7. Iterate for multi-character interactions
+```
+
+---
+
+This README frames **the entire work**, clarifies **applications**, preserves **ethical safeguards**, and makes it **accessible to writers, theorists, and AI designers**, all **without requiring programming expertise**.
