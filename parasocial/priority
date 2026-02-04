@@ -1,0 +1,64 @@
+                     ┌───────────────┐
+                     │   INPUT       │
+                     │ Scene / Reader│
+                     │ Character     │
+                     └───────┬───────┘
+                             │
+                             ▼
+┌─────────────────────────────────────────────┐
+│         TIERED TRIGGER STACK               │
+│ ┌──────────┐ ┌────────────┐ ┌───────────┐ │
+│ │Tier0 🫀   │ │Tier1 ❤️‍🔥 │ │Tier2 2x    │ │
+│ │Survival  │ │Drive / Loop│ │Attraction  │ │
+│ │& Boundary│ │Risk        │ │& Meaning  │ │
+│ └──────────┘ └────────────┘ └───────────┘ │
+└─────────────┬─────────────────────────────┘
+              │
+              ▼
+┌─────────────────────────────────────────────┐
+│        TIER3 μ-GATE (⏸️⏳🤔🙃)              │
+│ Mandatory Reflection + Hesitation + Irony  │
+│ + Ethical / Self-Awareness & Containment   │
+└─────────────┬─────────────────────────────┘
+              │
+              ▼
+┌─────────────────────────────────────────────┐
+│ EMOTIONS TAGGED (😨 😡 😬 🥵 etc.)          │
+│ Combine with Tiered Triggers to compute     │
+│ Parasocial & Ethical Risk                   │
+└─────────────┬─────────────────────────────┘
+              │
+              ▼
+┌─────────────────────────────────────────────┐
+│  COMPUTE PARASOCIAL & AGENCY FLUCTUATION  │
+│ V_s = (T_inv / T_norm) * (1-A)             │
+│ F_ex = (M_c / (1 + E_eth)) * e^(β*(1-A))*V_s│
+└─────────────┬─────────────────────────────┘
+              │
+              ▼
+┌─────────────────────────────────────────────┐
+│ APPLY μ–MOMUS STABILIZATION                 │
+│ μ_M = 1 - γ * H_i * B_f                     │
+│ Humor + Boundary containment modulate loops │
+└─────────────┬─────────────────────────────┘
+              │
+              ▼
+┌─────────────────────────────────────────────┐
+│ ENGAGEMENT & RECURSION OUTPUTS             │
+│ R_e^Momus = R_e * (1 + α * F_ex * μ_M)     │
+│ ΔR_e = R_e^Momus - (R_prev * K_r)          │
+└─────────────┬─────────────────────────────┘
+              │
+              ▼
+┌─────────────────────────────────────────────┐
+│ PLURAL INTERPRETATIONS (J × P)             │
+│ Multiple non-prescriptive outputs          │
+│ Reflective, ethical, contained             │
+└─────────────┬─────────────────────────────┘
+              │
+              ▼
+┌─────────────────────────────────────────────┐
+│ LOG RESIDUAL RISK & ITERATE                 │
+│ Obsession 🔁🧲, Compulsion 🔁, Violation V_s│
+│ Multi-character or multi-scene loops       │
+└─────────────────────────────────────────────┘
