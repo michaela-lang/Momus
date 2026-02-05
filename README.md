@@ -321,6 +321,165 @@ This creates a **permanent, ethically safe audit trail of unknowable interaction
 
 ---
 
+## 🎰 Anti-Gambling Safeguards (μ–Momus Design Constraint)
+
+### 1. Prohibition on Predictive Payoff Claims
+
+**Rule:**
+μ–Momus **must never be used to predict, optimize, or influence probabilistic financial outcomes**.
+
+This includes (but is not limited to):
+
+* gambling results (slots, cards, roulette, sports betting),
+* speculative trading framed as “pattern mastery,”
+* any environment where **reward is stochastic and externally adjudicated**.
+
+**Formal Constraint:**
+
+[
+\forall X:
+\quad
+\text{If } Reward(X) \in \text{Stochastic Payoff} \Rightarrow \mu_M(X) = \varnothing
+]
+
+μ–Momus outputs **interpretation**, not odds.
+
+---
+
+### 2. Pattern ≠ Leverage (Explicit De-Leveraging Rule)
+
+Add this as a **core axiom**:
+
+> *Pattern recognition does not imply causal leverage.*
+
+μ–Momus enforces **de-leveraging** by:
+
+* refusing scalar outputs (no “score,” “confidence,” or “edge”),
+* producing **plural roots** instead of a single actionable conclusion,
+* mandating μ-gates (⏸️ ⏳ 🤔 🙃) before any interpretive closure.
+
+This structurally blocks the dopamine loop that fuels gambling.
+
+---
+
+### 3. Reward Pathway Containment (🎁 Is Non-Monetary Only)
+
+You already introduced 🎁 as a reward pathway—this is good, but it must be **scoped**.
+
+**Restriction:**
+
+🎁 **may only represent**:
+
+* insight,
+* narrative clarity,
+* emotional resolution,
+* ethical stabilization,
+* learning satisfaction.
+
+🎁 **may not represent**:
+
+* money,
+* probability advantage,
+* future payoff,
+* external validation via win/loss.
+
+Add this line verbatim:
+
+> “🎁 denotes *cognitive or ethical reward only*. Any attempt to map 🎁 to financial or probabilistic gain violates system constraints.”
+
+---
+
+### 4. Compulsion Brake (🔁 + 🎰 = μ Hard Stop)
+
+Introduce a **hard stop condition**:
+
+If:
+
+* 🔁 compulsion = high
+  **and**
+* 🎁 is framed as external gain
+
+Then:
+
+[
+\mu_M \Rightarrow {\ ⏸️,\ ⚖️,\ 🧠🔄\ }
+]
+
+Meaning:
+
+* enforced delay,
+* ethical review,
+* digestion loop,
+* **no interpretive output**.
+
+This is critical. Gambling thrives on *speed + confidence*. μ–Momus enforces **slowness + doubt**.
+
+---
+
+### 5. No Feedback Optimization Loops
+
+Gambling systems reinforce behavior by:
+
+* tightening feedback,
+* escalating reward anticipation,
+* optimizing for return.
+
+μ–Momus forbids this.
+
+**Design rule:**
+
+* Outputs cannot be ranked.
+* Past outputs cannot be used to “improve” future success.
+* There is no “learning to win.”
+
+This makes μ–Momus **anti-addictive by architecture**.
+
+---
+
+### 6. README Language (Drop-In Section)
+
+You can paste this directly:
+
+---
+
+## 🚫 Prohibited Use: Gambling & Probabilistic Exploitation
+
+μ–Momus is **not a predictive or optimization engine**.
+
+This framework may not be used to:
+
+* identify betting strategies,
+* improve gambling outcomes,
+* simulate advantage in chance-based systems,
+* or reinforce compulsive reward-seeking behavior.
+
+Pattern recognition within μ–Momus is **non-instrumental**: it produces understanding without leverage.
+
+Any use that frames insight as *control over stochastic reward* violates the system’s ethical constraints.
+
+---
+
+### 7. Why This Works (Conceptually)
+
+Gambling addiction depends on:
+
+* illusion of control,
+* intermittent reinforcement,
+* escalating confidence,
+* denial of randomness.
+
+μ–Momus does the opposite:
+
+* it **exposes illusion**,
+* **interrupts reinforcement**,
+* **prevents closure**,
+* and **centers uncertainty as valid**.
+
+In other words:
+**μ–Momus dissolves the psychological fuel gambling requires.**
+
+---
+
 # μ–Momus: Ethical Engagement & Containment Framework
 
 **Public Domain — Free to Use, Modify, and Share**
