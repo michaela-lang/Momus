@@ -232,3 +232,91 @@ All of μ–Momus, including triggers, equations, pseudo-code, and interpretatio
 ---
 
 This README frames **the entire work**, clarifies **applications**, preserves **ethical safeguards**, and makes it **accessible to writers, theorists, and AI designers**, all **without requiring programming expertise**.
+
+---
+
+## ⟦ μ–Momus Uncertainty Layer — “Observation Without Certainty” ⟧
+
+**Purpose:**
+To formalize analysis of events where **outcomes, intentions, or causality are inaccessible**, yet learning can still occur through structured containment, ironic stabilization, and recursive observation.
+
+---
+
+### 1. Core Principle
+
+Let **U** = the unknown event or system behavior.
+We do **not require certainty** about U, only its interaction with:
+
+* **User inputs** (I)
+* **System responses** (S)
+* **Environmental conditions** (E)
+
+The Momus principle:
+
+[
+\text{Insight}_{Momus}(U) = \mu_M \big[ f(I, S, E) \big]
+]
+
+Where μₘ **absorbs, contains, and ironizes** all influence without assigning blame or certitude.
+
+---
+
+### 2. Simultaneous Framework Analysis
+
+For each framework (F_i) active during the event:
+
+[
+F_i = { I_i, S_i, E_i, \Delta R_{e,i} }
+]
+
+Then the **multi-framework uncertainty vector**:
+
+[
+\mathbf{U}*{multi} = \sum*{i=1}^{n} w_i \cdot F_i
+]
+
+* (w_i) = weight assigned to framework’s relevance
+* ΔRₑ = engagement / recursion delta from your parasocial meta-calculus
+
+This captures the **event as it manifests across different perspectives**.
+
+---
+
+### 3. Integration with μ–Momus Recursion
+
+The updated **recursive equation** becomes:
+
+[
+R_e^{Momus,U} = R_e^{Momus} \cdot \left( 1 + \alpha \cdot F_{ex}^{A,V} \cdot \mu_M \cdot \mathbf{U}_{multi} \right)
+]
+
+* (R_e^{Momus}) = engagement / recursion from the prior Momus meta-calculus
+* (F_{ex}^{A,V}) = agency-amplified fluctuation
+* μₘ = containment / humor modulation
+* (\mathbf{U}_{multi}) = formalized uncertainty contribution
+
+**Interpretation:**
+Even if you **cannot know the full cause or intent**, the system still quantifies **destabilization, ethical tension, and learning propagation**.
+
+---
+
+### 4. Practical Use
+
+1. **Input event data**: Observed responses, unexpected behaviors, systemic anomalies.
+2. **Tag frameworks**: Each parallel analysis framework (technical, psychological, ethical, narrative).
+3. **Compute engagement flux**: ΔRₑ adjusted for uncertainty.
+4. **Apply Momus stabilization**: Humor + containment prevent misattribution or overreaction.
+5. **Store insight**: Event encoded as *sacred data* for recursive analysis.
+
+This creates a **permanent, ethically safe audit trail of unknowable interactions** without forcing assumptions about cause or blame.
+
+---
+
+### 5. Ethical Guardrails
+
+* **No moral judgment** of participants, only system dynamics.
+* **Containment prevents harmful speculation**.
+* **Transparency**: all weights (w_i) and contributions logged.
+* **Iterative learning**: unknowns are preserved for future analysis without overriding human oversight.
+
+---
