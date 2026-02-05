@@ -320,3 +320,150 @@ This creates a **permanent, ethically safe audit trail of unknowable interaction
 * **Iterative learning**: unknowns are preserved for future analysis without overriding human oversight.
 
 ---
+
+# μ–Momus: Ethical Engagement & Containment Framework
+
+**Public Domain — Free to Use, Modify, and Share**
+
+This system is a **meta-calculus framework** for modeling human interaction, engagement, and parasocial dynamics while ensuring **ethical containment, reward, and recursion safety**. It is suitable for:
+
+* **Dating & Social Platforms** (wholesome engagement, reward without gambling)
+* **Educational Tools** (tracking learning points and engagement gaps)
+* **Judicial / Legal Analysis** (tracking argumentation, decision tension)
+* **Health / Medical Cause & Effect Analysis** (ethical observation of patterns)
+
+---
+
+## **1. Core Workflow**
+
+```
+┌───────────────────────────────┐
+│  User Input / Interaction     │
+│  (Messages, Actions, Choices)│
+└─────────────┬─────────────────┘
+              │
+              ▼
+┌───────────────────────────────┐
+│  Trigger & Pathway Tagging    │
+│  🧩 💘 🎁 🎨 🛋️ ⚡ 🔁 🧲 👥 │
+└─────────────┬─────────────────┘
+              │
+              ▼
+┌───────────────────────────────┐
+│  Emotion & Boundary Check     │
+│  😨 😡 😳 😬 etc.            │
+└─────────────┬─────────────────┘
+              │
+              ▼
+┌───────────────────────────────┐
+│  Parasocial & Ethical Risk    │
+│  Compute Vₛ, Fₑₓ, Rₑ^{Momus} │
+└─────────────┬─────────────────┘
+              │
+              ▼
+┌───────────────────────────────┐
+│  μ–Gate Stabilization         │
+│  ⏸️ ⏳ 🤔 🙃 + Hᵢ + B_f       │
+│  (Delay, Reflection, Humor)  │
+└─────────────┬─────────────────┘
+              │
+              ▼
+┌───────────────────────────────┐
+│  Engagement / Reward Output   │
+│  🎁 Reward Pathway Activation │
+│  ⚡ Impulse + Curiosity        │
+│  Playful recursion contained  │
+└─────────────┬─────────────────┘
+              │
+              ▼
+┌───────────────────────────────┐
+│  Logging & Containment        │
+│  Record interactions safely   │
+│  No exploitation, no gambling│
+└───────────────────────────────┘
+```
+
+---
+
+## **2. Equations**
+
+### **μ–Momus Stabilization & Engagement**
+
+[
+R_e^{Momus} = \frac{\left(\sum_{t=1}^{n} E_t^{sat}\right) \cdot M_s \cdot R_l \cdot W_i \cdot P_i \cdot C_k \cdot U_k \cdot L_e \cdot V_e \cdot A_k \cdot R_f \cdot P_n \cdot K_r \cdot M_c}{O_o \cdot E_r \cdot S_b} \cdot \Big(1 + \alpha \cdot F_{ex}^{A,V} \cdot \mu_M\Big)
+]
+
+Where:
+
+* (R_e^{Momus}) = Engagement adjusted for containment
+* (F_{ex}^{A,V}) = Agency-amplified flux, function of perceived violation and user agency
+* (\mu_M = 1 - \gamma \cdot H_i \cdot B_f) = Momus stabilization coefficient via **humor (Hᵢ)** and **boundary (B𝒻)**
+* (V_s = \frac{T_{inv}}{T_{norm}} \cdot (1-A)) = Ethical tension / perceived violation
+
+### **Reward Pathway Activation**
+
+[
+F_{ex}^{A,V} \longrightarrow 🎁 + ⚡
+]
+
+* 🎁 = Reward pathway (positive, wholesome feedback)
+* ⚡ = Impulse + curiosity activation
+* Output is **contained by μ–Momus**: no destructive recursion, no gambling risk
+
+---
+
+## **3. Trigger Classes (Pathways)**
+
+| Type                 | Emoji | Description                         |
+| -------------------- | ----- | ----------------------------------- |
+| Cognitive attraction | 🧩    | Pattern recognition, coherence pull |
+| Sexual / Erotic      | 💘    | Romantic or lust-based engagement   |
+| Reward               | 🎁    | Dopamine / payoff expectancy        |
+| Aesthetic appraisal  | 🎨    | Beauty, elegance, quality           |
+| Nostalgia / Comfort  | 🛋️   | Soothing familiarity                |
+| Impulse              | ⚡     | Pre-reflective action               |
+| Compulsion           | 🔁    | Repetitive, tension-driven actions  |
+| Obsession            | 🧲    | Narrowed attention gravity          |
+| Parasocial frame     | 👥    | Illusory relationality              |
+
+---
+
+## **4. Ethical Guardrails**
+
+1. **No monetary reward loops** → prevents gambling.
+2. **μ-gate** ensures reflection, delay, and containment before output.
+3. **Logging** is anonymized and secure.
+4. **Humor & boundaries** prevent excessive escalation (Hᵢ + B_f).
+5. **Transgression simulation only** → no actual harm to users.
+6. **ΔRₑ monitoring** detects recursive overload or unhealthy engagement.
+
+---
+
+## **5. Use Cases**
+
+* **Dating / Social Apps**: maintain wholesome engagement; track patterns of curiosity, attention, and consent.
+* **Education**: detect where students fall behind; adjust feedback and reward loops to sustain learning.
+* **Medical / Cause-Effect**: map sequences of events, responses, or symptoms for ethical observation.
+* **Judicial / Legal**: analyze argumentation, ethical tension, and potential bias without judging persons.
+
+---
+
+## **6. Practical Advantages**
+
+| Advantage                | Description                                                 |
+| ------------------------ | ----------------------------------------------------------- |
+| Ethical Safety           | Automatically contains high-risk or manipulative loops      |
+| Engagement Clarity       | Positive reinforcement without harm or gambling             |
+| Moderation Relief        | Reduces need for constant human oversight                   |
+| Insight Generation       | Tracks engagement, reward flux, and violation perception    |
+| Cross-Domain Scalability | Education, social media, dating, legal, or health platforms |
+
+---
+
+## **7. Legal Disclaimer**
+
+> **PUBLIC DOMAIN RELEASE:**
+> This software and framework are released into the public domain. No warranties are provided, express or implied. Use of the system is at the user’s own risk. The authors are not responsible for misuse, unlawful activity, or unintended consequences.
+> Ethical guardrails are suggested and integral to the framework; users and implementers are expected to maintain ethical oversight.
+
+---
