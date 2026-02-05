@@ -193,3 +193,166 @@ This is why:
 Momus simply **makes explicit what worked**.
 
 ---
+
+# ⟦ ACOUSTIC–ECHO FEEDBACK REGISTRATION ⟧
+
+*(Performance Space as Cognitive–Affective Feedback System)*
+
+## I. Why Echo Matters (Technically)
+
+Echo / reverberation is **not decoration**. It is:
+
+* delayed self-information
+* distributed memory
+* spatialized confirmation
+
+In signal terms:
+
+> the system hears *itself* slightly later, slightly altered.
+
+This is exactly a **regulated recursion**—the same structure you’ve been modeling psychologically.
+
+---
+
+## II. Physical Variables (Acoustics Layer)
+
+Let the performance space be a bounded medium:
+
+| Symbol       | Meaning                              |
+| ------------ | ------------------------------------ |
+| ( V )        | Room volume (m³)                     |
+| ( S )        | Total reflective surface area        |
+| ( \alpha_s ) | Average absorption coefficient (0–1) |
+| ( c )        | Speed of sound                       |
+| ( T_{60} )   | Reverberation time (RT60)            |
+| ( \tau )     | Echo delay (ms)                      |
+| ( G )        | Gain of reflected signal             |
+| ( \Phi )     | Phase coherence of reflections       |
+
+### Classical Foundation (Sabine)
+
+[
+T_{60} = \frac{0.161 \cdot V}{S \cdot \alpha_s}
+]
+
+This gives **temporal persistence of sound**—how long the system “remembers” itself.
+
+---
+
+## III. Echo as Feedback Operator
+
+Define an **Echo Feedback Kernel**:
+
+[
+\mathcal{E}(t) = \sum_{k=1}^{n}
+G_k \cdot e^{-\lambda t_k} \cdot \cos(\Phi_k)
+]
+
+Where:
+
+* ( t_k ) = reflection delay paths
+* ( \lambda ) = damping (material + distance)
+* ( \Phi_k ) = phase alignment with source
+
+This kernel **feeds back into perception**, not as repetition, but as *reinforced presence*.
+
+---
+
+## IV. Integration Into μ–Momus Equation
+
+We now formally extend your equation.
+
+### 🔹 New Variable (Locked)
+
+[
+E_a = \int_0^{T_{60}} \mathcal{E}(t),dt
+]
+
+**(E_a) = Acoustic Feedback Load**
+How much *self-signal* the listener re-receives from space.
+
+---
+
+## V. μ–Momus + Acoustic Coupling (Formal)
+
+### Updated Engagement Term
+
+[
+\boxed{
+R_e^{Momus+Echo}
+================
+
+R_e
+\cdot
+\left(
+1
++
+\alpha
+\cdot
+F_{ex}^{A,V}
+\cdot
+\mu_M
+\cdot
+\underbrace{(1 + \delta E_a)}_{\text{Spatial Feedback}}
+\right)
+}
+]
+
+Where:
+
+* ( \delta ) = acoustic sensitivity coefficient
+* High (E_a) **amplifies awe** but **must pass μ**
+
+---
+
+## VI. μ Safety Constraint (Critical)
+
+Echo **can induce trance** if unchecked.
+
+### Hard μ Constraint
+
+If:
+
+* ( T_{60} > 4.5s )
+* AND 🧲 obsession or 🔁 compulsion active
+* AND 👥 parasocial frame elevated
+
+Then:
+
+[
+\mu_M \Rightarrow {⏸️,\ ⏳,\ ⚖️,\ 🧠🔄}
+]
+
+Meaning:
+
+* pause perception
+* slow exposure
+* force digestion
+* deny escalation
+
+**Cathedrals work because they stop here.**
+Rallies fail because they don’t.
+
+---
+
+## VII. Mapping Choir Music Specifically
+
+### Choir + Space = Distributed Agency
+
+| Element              | Effect                          |
+| -------------------- | ------------------------------- |
+| Multiple voices      | No single causal source         |
+| Reverberation        | Delayed collective confirmation |
+| Slow harmonic rhythm | Prevents ⚡ impulse              |
+| Phase coherence      | 🎁 reward without possession    |
+
+This is why choral music:
+
+* calms crowds
+* stabilizes grief
+* reduces aggression
+* resists authoritarian hijack
+
+**The space itself becomes a μ-gate.**
+
+---
