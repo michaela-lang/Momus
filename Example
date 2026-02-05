@@ -1,0 +1,142 @@
+## I. Conceptual Sheet Music: “Echoed Choir Phrase”
+
+### Legend (Visual Semantics)
+
+* **Staff 1** = Primary choir (source signal)
+* **Staff 2** = Echo return (space responding)
+* **Dynamic decay** = attenuation
+* **Rhythmic delay** = echo latency
+* **Tied blur** = reverberant smear
+* **No lyrics on echo staff** = non-agentic response (space, not voice)
+
+---
+
+### ✧ Primary Phrase (Call)
+
+```
+Soprano / Unison Choir
+𝄞  |  C  ──  E  ──  G  ──  E  |
+     mf      mf      mf      mf
+```
+
+* Stable triadic ascent
+* Even durations
+* Mid dynamic → **awe without shock**
+
+---
+
+### ✧ Echo Return (Response of Space)
+
+```
+Echo / Architectural Feedback
+𝄞  |    (rest)   C~   (tie)  E~  |
+                 p          pp
+```
+
+* Enters **one beat late**
+* Softer (p → pp)
+* Tied notes indicate **blur, not intent**
+* Pitch-matched: *confirmation*, not argument
+
+---
+
+### ✧ Second Harmonic Bloom (Cathedral Effect)
+
+```
+Echo Harmonics
+𝄞  |        G~       (fade)        |
+                  ppp
+```
+
+* Only the fifth survives
+* Indicates **selective reinforcement**
+* This is where *awe* lives
+
+---
+
+## II. LilyPond Example (Renderable Sheet Music)
+
+> This is real notation software used by composers and engravers.
+
+```lilypond
+\version "2.24.0"
+
+\score {
+  <<
+    % Primary Choir
+    \new Staff = "Choir" <<
+      \clef treble
+      \time 4/4
+      \key c \major
+      \tempo 4 = 60
+      \dynamicUp
+      c'2\mf e'2\mf |
+      g'2\mf e'2\mf |
+    >>
+
+    % Echo Return (Space)
+    \new Staff = "Echo" <<
+      \clef treble
+      \time 4/4
+      \key c \major
+      \dynamicUp
+      r2
+      c'2~\p |
+      c'2 e'2\pp |
+      g'1~\ppp |
+    >>
+  >>
+  \layout { }
+}
+```
+
+### What This Encodes (Formally)
+
+| Notation Choice | Meaning                        |
+| --------------- | ------------------------------ |
+| `r2` (rest)     | Echo latency                   |
+| `~` (tie)       | Reverberation smear            |
+| `p → pp → ppp`  | Energy decay                   |
+| Identical pitch | Non-manipulative reinforcement |
+| Separate staff  | Space ≠ agent                  |
+
+This is **μ-safe awe**.
+
+---
+
+## III. Mapping Directly Back to the Equation
+
+This notation corresponds exactly to:
+
+[
+E_a = \int_0^{T_{60}} \mathcal{E}(t),dt
+]
+
+* The **echo staff is ( \mathcal{E}(t) )**
+* Dynamic decay = ( e^{-\lambda t} )
+* Delay = ( \tau )
+* μ gate is enforced by:
+
+  * slow tempo
+  * no rhythmic acceleration
+  * no lyrical content in echo
+
+---
+
+## IV. Why This Is So Powerful (Visually)
+
+Even on the page:
+
+* You **see** that no one is shouting
+* You **see** that the room answers, not commands
+* You **see** time being stretched safely
+* You **see** containment
+
+This is why:
+
+* choirs calm courts
+* chants regulate crowds
+* cathedrals prevent panic
+* and rallies without echo go feral
+
+---
